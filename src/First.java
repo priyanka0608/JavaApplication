@@ -10,6 +10,8 @@ import java.util.*;
 	 System.out.println("My first GIT project. Checking out git commands");
 
 	 System.out.println("Learning git merge.");
+	 System.out.println("My first GIT project");	
+	 System.out.println("Chking mergetool");
 	 callMe();
  }
 
