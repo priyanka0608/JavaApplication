@@ -17,5 +17,10 @@ callMe();
  System.out.println("I will not  come");
  System.out.println("logging things");
  System.out.println("Open KDIFF3");
+ multipleCommitsTry1();
+ }
+ 
+ public static void multipleCommitsTry1() {
+	 System.out.println("First commit in multi commit way");
  }
   }
