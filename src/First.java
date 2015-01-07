@@ -22,5 +22,16 @@ callMe();
  
  public static void multipleCommitsTry1() {
 	 System.out.println("First commit in multi commit way");
+	 multipleCommitsTry2();
+ }
+ 
+ public static void multipleCommitsTry2() {
+	 System.out.println("Second commit in multi commit way");
+	 System.out.println("Amending second commit");
+	 multipleCommitsTry3();
+ }
+ 
+ public static void multipleCommitsTry3() {
+	 System.out.println("Third commit in multi commit way");
  }
   }
